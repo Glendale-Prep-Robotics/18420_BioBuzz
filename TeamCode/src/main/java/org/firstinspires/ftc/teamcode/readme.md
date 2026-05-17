@@ -1,3 +1,18 @@
+## TeamCode for 18420 Metal Masters BioBuzz Season
+
+Welcome!
+
+This code is written by students of 18420 Metal Masters in Peoria Arizona.
+
+Contributors:
+    Gabe
+    John
+    Krish
+    Tommy
+
+Mentor:
+    Mr. Roper
+
 ## TeamCode Module
 
 Welcome!
